@@ -28,7 +28,7 @@ I am organizing the [Workshop on Applications of Formal Methods and Digital Twin
 
 ### Tutorial on Semantically Reflected Digital Twins
 
-Einar Broch Johnsen will give a tutorial at [ICTAC 2022](https://viam.science.tsu.ge/clas2022/ictac/school.html) about our work on the combination of Semantic Web technologies with programming languages to enable
+Together with Einar Broch Johnsen, Silvia Lizeth Tapia Tarifa and Rudolf Schlatte, I will give a tutorial at [ICTAC 2022](https://viam.science.tsu.ge/clas2022/ictac/school.html) about our work on the combination of Semantic Web technologies with programming languages to enable
 self-adaptive Digital Twins that react to changes in the asset model.
 
 ### Recent and Recorded Presentations
