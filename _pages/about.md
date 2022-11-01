@@ -24,11 +24,11 @@ You can find a list of my publications [here](/publications/) or at [dbpl](https
 
 ### Workshop on Applications of Formal Methods and Digital Twins
 
-I am organizing the [Workshop on Applications of Formal Methods and Digital Twins](https://fm2023.isp.uni-luebeck.de/index.php/workshop-applications-of-formal-methods-and-digital-twins/), co-located with [FM'23](https://fm2023.isp.uni-luebeck.de/). The aim of the workshop is to find common ground between industrial needs for model-based engineering of Digital Twins, and Formal Methods. To this end, we welcome the contribution of short papers that will form the foundation for a journal article that illustrates the perspectives, challenges and first applications of Formal Methods in Digital Twins. **More information to follow soon!**
+I am organizing the [Workshop on Applications of Formal Methods and Digital Twins](https://fm2023.isp.uni-luebeck.de/index.php/workshop-applications-of-formal-methods-and-digital-twins/), co-located with [FM'23](https://fm2023.isp.uni-luebeck.de/). The aim of the workshop is to find common ground between industrial needs for model-based engineering of Digital Twins, and Formal Methods. To this end, we welcome the contribution of short papers that will form the foundation for a journal article that illustrates the perspectives, challenges and first applications of Formal Methods in Digital Twins. 
 
 ### Tutorial on Semantically Reflected Digital Twins
 
-Together with Einar Broch Johnsen, Silvia Lizeth Tapia Tarifa and Rudolf Schlatte, I will give a tutorial at [ICTAC 2022](https://viam.science.tsu.ge/clas2022/ictac/school.html) about our work on the combination of Semantic Web technologies with programming languages to enable
+Together with Einar Broch Johnsen, Silvia Lizeth Tapia Tarifa and Rudolf Schlatte, I gave a tutorial at [ICTAC 2022](https://viam.science.tsu.ge/clas2022/ictac/school.html) about our work on the combination of Semantic Web technologies with programming languages to enable
 self-adaptive Digital Twins that react to changes in the asset model.
 
 ### Recent and Recorded Presentations
@@ -38,7 +38,7 @@ self-adaptive Digital Twins that react to changes in the asset model.
   {% endfor %}</ul>
 
 # Teaching
-A demonstrator of the KalkulierbaR tool for demonstrating different proof calculi is available at [kbar.app](http://kbar.app), the source code to run an own instance is available on [github](https://github.com/kalkulierbar/kalkulierbar).
+An instance of the KalkulierbaR tool for demonstrating different proof calculi is available at [kbar.app](http://kbar.app), the source code to run an own instance is available on [github](https://github.com/kalkulierbar/kalkulierbar).
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}

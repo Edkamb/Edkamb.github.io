@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-lites
 date: 2022-11-01
 venue: 'Leibniz Transactions on Embedded Systems'
-citation: 'Eduard Kamburjan, Stefan Mitsch, Reiner Hähnle. (2022). Leibniz Trans. Embed. Syst., accepted for publication.'
+citation: 'Eduard Kamburjan, Stefan Mitsch, Reiner Hähnle. (2022). <b>Leibniz Trans. Embed. Syst.</b>, accepted for publication.'
 ---
 
-
+[Preprint](/files/lites.pdf)
