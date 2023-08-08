@@ -21,6 +21,10 @@ You can find a list of my publications at [dbpl](https://dblp.org/pid/177/7383.h
 
 # Recent and Upcoming Events
 
+### Presentation on Context-aware Trace Contracts
+
+I presented recent results on using trace logics in method contracts at the [25th KeY Workshop](https://www.key-project.org/key-symposium/key-symposium-2023/). You can find [slides here](files/key23_slides.pdf).
+
 ### Presentation on Digital Twins for Ecological Systems
 
 I presented an overview over our on-going activities on digital twins for ecological systems at the [Green Data Lab Conference](https://www.nmbu.no/forside/en/events/greendatalab-conference). You can find [slides](files/gdl_slides.pdf) and [abstract](files/gdl_abstract.pdf) here.
