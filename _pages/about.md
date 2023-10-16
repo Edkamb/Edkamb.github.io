@@ -17,17 +17,31 @@ I am developing and maintaining the [Crowbar](https://github.com/Edkamb/crowbar-
 
 I am contributing to the [ABS](https://abs-models.org) language and am maintaining its variability layer and its hybrid extension [HABS](https://formbar.raillab.de/en/publications-and-tools/hybrid-abs/).
 
-You can find a list of my publications at [dbpl](https://dblp.org/pid/177/7383.html) or [Google Scholar](https://scholar.google.com/citations?user=-GBTulYAAAAJ). Preprints are publishd [here](/publications/). A short version of my CV can be found [here](files/cv_short.pdf).
+You can find a list of my publications at [dbpl](https://dblp.org/pid/177/7383.html) or [Google Scholar](https://scholar.google.com/citations?user=-GBTulYAAAAJ). Preprints are published [here](/publications/). A short version of my CV can be found [here](files/cv_short.pdf).
 
 # Recent and Upcoming Events
 
-### Presentation on Context-aware Trace Contracts
+### ABS Workshop'23
+
+The 5th ABS [Workshop](https://edkamb.github.io/ABS_23/) was held in Lyon, and 
+presented recent results on using [trace logics in method contracts](files/abs23_slides_1.pdf) and combining [type systems with deductive verification of distributed hybrid systems](files/abs23_slides_2.pdf).
+
+
+### Presentation SPLC'23
+
+I presented our work on [variability for functional programming](files/splc23_slides.pdf) and [SPLC'23](https://2023.splc.net/). 
+
+
+### Presentation KeY Workshop'23
 
 I presented recent results on using trace logics in method contracts at the [25th KeY Workshop](https://www.key-project.org/key-symposium/key-symposium-2023/). You can find [slides here](files/key23_slides.pdf).
+
+
 
 ### Presentation on Digital Twins for Ecological Systems
 
 I presented an overview over our on-going activities on digital twins for ecological systems at the [Green Data Lab Conference](https://www.nmbu.no/forside/en/events/greendatalab-conference). You can find [slides](files/gdl_slides.pdf) and [abstract](files/gdl_abstract.pdf) here.
+
 
 ### Workshop on Applications of Formal Methods and Digital Twins
 
