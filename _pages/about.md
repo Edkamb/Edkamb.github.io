@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the University of Oslo, associated with the [Analytical Solutions and Reasoning group](https://www.mn.uio.no/ifi/english/research/groups/asr/index.html) 
+I am a senior lecturer at the University of Oslo, associated with the [Analytical Solutions and Reasoning group](https://www.mn.uio.no/ifi/english/research/groups/asr/index.html) 
 and the [SIRIUS centre](https://sirius-labs.no), where I work on formal methods for digital twins with [Einar Broch Johnsen](https://ebjohnsen.org) and [Martin Giese](https://www.mn.uio.no/ifi/english/people/aca/martingi/). Before I came to Oslo, I got my PhD from the Technical University of Darmstadt under the supervision of [Reiner Hähnle](https://www.informatik.tu-darmstadt.de/se/gruppenmitglieder/groupmembers_detailseite_30784.en.jsp).
 
 My research focuses on the integration of technologies and theories from the Semantic Web with formal methods to specify, analyse and simulate data-heavy computational systems, in particular Digital Twins. I am developing and maintaining the [SMOL](https://smolang.org/) language which enables programs to use knowledge graphs for reflection and data access.
