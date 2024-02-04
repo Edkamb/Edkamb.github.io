@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior lecturer at the University of Oslo, associated with the [Analytical Solutions and Reasoning group](https://www.mn.uio.no/ifi/english/research/groups/asr/index.html) 
-and the [SIRIUS centre](https://sirius-labs.no), where I work on formal methods for digital twins with [Einar Broch Johnsen](https://ebjohnsen.org) and [Martin Giese](https://www.mn.uio.no/ifi/english/people/aca/martingi/). Before I came to Oslo, I got my PhD from the Technical University of Darmstadt under the supervision of [Reiner Hähnle](https://www.informatik.tu-darmstadt.de/se/gruppenmitglieder/groupmembers_detailseite_30784.en.jsp).
+I am a researcher at the University of Oslo, associated with the [Reliable Systems group](https://www.mn.uio.no/ifi/english/research/groups/psy/index.html) 
+and the [SIRIUS centre](https://sirius-labs.no), where I work on formal methods for digital twins, software engineering for and with knowledge graphs, and deductive verification.
+Before I came to Oslo, I got my PhD from the Technical University of Darmstadt under the supervision of [Reiner Hähnle](https://www.informatik.tu-darmstadt.de/se/gruppenmitglieder/groupmembers_detailseite_30784.en.jsp).
 
 My research focuses on the integration of technologies and theories from the Semantic Web with formal methods to specify, analyse and simulate data-heavy computational systems, in particular Digital Twins. I am developing and maintaining the [SMOL](https://smolang.org/) language which enables programs to use knowledge graphs for reflection and data access.
 Furthermore, I research novel approaches to modularity in deductive program verification, in particular notions of contracts for distributed and hybrid systems.
@@ -20,6 +21,17 @@ I am contributing to the [ABS](https://abs-models.org) language and am maintaini
 You can find a list of my publications at [dbpl](https://dblp.org/pid/177/7383.html) or [Google Scholar](https://scholar.google.com/citations?user=-GBTulYAAAAJ). Preprints are published [here](/publications/). A short version of my CV can be found [here](files/cv_short.pdf).
 
 # Recent and Upcoming Events
+
+
+### WAKERS'24
+
+The 4th [WAKERS workshop](https://set.win.tue.nl/event/wakers-2024/) on Digital Engineering and Knowledge Representation was held in Stellenbosch, the
+slides from my tutorial on Semantically lifted digital twins and programs are available [here](files/tutorial_kamburjan_wakers.pdf)
+
+### LNCS 14360 
+
+Our state-of-the-art volume on current research trends in Active Object languages is now published by Springer:
+[https://link.springer.com/book/10.1007/978-3-031-51060-1](https://link.springer.com/book/10.1007/978-3-031-51060-1)
 
 ### ABS Workshop'23
 
