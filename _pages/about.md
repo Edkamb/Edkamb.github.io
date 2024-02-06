@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the University of Oslo, associated with the [Reliable Systems group](https://www.mn.uio.no/ifi/english/research/groups/psy/index.html) 
+I am a senior researcher at the University of Oslo, associated with the [Reliable Systems group](https://www.mn.uio.no/ifi/english/research/groups/psy/index.html) 
 and the [SIRIUS centre](https://sirius-labs.no), where I work on formal methods for digital twins, software engineering for and with knowledge graphs, and deductive verification.
 Before I came to Oslo, I got my PhD from the Technical University of Darmstadt under the supervision of [Reiner Hähnle](https://www.informatik.tu-darmstadt.de/se/gruppenmitglieder/groupmembers_detailseite_30784.en.jsp).
 
