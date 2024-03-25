@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/wakers2024
 venue: "WAKERS Workshop 2024"
-date: 2023-01-29
+date: 2024-01-29
 location: "Stellenbosch, South Africa"
 ---
 

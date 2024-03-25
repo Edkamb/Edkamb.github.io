@@ -14,7 +14,7 @@ Before I came to Oslo, I got my PhD from the Technical University of Darmstadt u
 
 My research focuses on the integration of technologies and theories from the Semantic Web with formal methods to specify, analyse and simulate data-heavy computational systems, in particular Digital Twins. I am developing and maintaining the [SMOL](https://smolang.org/) language which enables programs to use knowledge graphs for reflection and data access.
 Furthermore, I research novel approaches to modularity in deductive program verification, in particular notions of contracts for distributed and hybrid systems.
-I am developing and maintaining the [Crowbar](https://github.com/Edkamb/crowbar-tool), a deductive verification system for Active Objects.
+I am developing and maintaining [Crowbar](https://github.com/Edkamb/crowbar-tool), a deductive verification system for Active Objects.
 
 I am contributing to the [ABS](https://abs-models.org) language and am maintaining its variability layer and its hybrid extension [HABS](https://formbar.raillab.de/en/publications-and-tools/hybrid-abs/).
 
@@ -22,6 +22,22 @@ You can find a list of my publications at [dbpl](https://dblp.org/pid/177/7383.h
 
 # Recent and Upcoming Events
 
+### Workshop an Asynchronous Program Models
+The 6th [Workshop on Asynchronous Program Models](https://edkamb.github.io/APM_24/), successor of the ABS workshop series, will be held 02. - 04.10.24 in Turin, 
+and will be organized by Ferruccio Damiani, Luca Paolini, Gianluca Torta, and me.
+
+### Workshop on Knowledge Graph Software Lifecycle Management
+Our proposal to hold the 1st Workshop on Knowledge Graph Software Lifecycle Management as part of [ISWC'24](https://iswc2024.semanticweb.org) was accepted, more details to follow!
+
+### SemIIM Workshop
+Our proposal to hold the 3rd International Workshop on Semantic Industrial Information Modelling (SemIIM) as part of [ISWC'24](https://iswc2024.semanticweb.org) was accepted, more details to follow!
+
+### Lorentz Seminar 
+I am glad to have participated in the Lorentz Workshop on [Contract Languages](https://www.lorentzcenter.nl/contract-languages.html).
+The slides of my presentation are available [here](files/lorentz.pdf).
+
+### Dagstuhl Seminar
+I am glad to have participated in the Dagstuhl Seminar 24061 on [Are Knowledge Graphs Ready for the Real World?](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24061).
 
 ### WAKERS'24
 
@@ -33,37 +49,7 @@ slides from my tutorial on Semantically lifted digital twins and programs are av
 Our state-of-the-art volume on current research trends in Active Object languages is now published by Springer:
 [https://link.springer.com/book/10.1007/978-3-031-51060-1](https://link.springer.com/book/10.1007/978-3-031-51060-1)
 
-### ABS Workshop'23
 
-The 5th ABS [Workshop](https://edkamb.github.io/ABS_23/) was held in Lyon, and 
-presented recent results on using [trace logics in method contracts](files/abs23_slides_1.pdf) and combining [type systems with deductive verification of distributed hybrid systems](files/abs23_slides_2.pdf).
-
-
-### Presentation SPLC'23
-
-I presented our work on [variability for functional programming](files/splc23_slides.pdf) and [SPLC'23](https://2023.splc.net/). 
-
-
-### Presentation KeY Workshop'23
-
-I presented recent results on using trace logics in method contracts at the [25th KeY Workshop](https://www.key-project.org/key-symposium/key-symposium-2023/). You can find [slides here](files/key23_slides.pdf).
-
-
-
-### Presentation on Digital Twins for Ecological Systems
-
-I presented an overview over our on-going activities on digital twins for ecological systems at the [Green Data Lab Conference](https://www.nmbu.no/forside/en/events/greendatalab-conference). You can find [slides](files/gdl_slides.pdf) and [abstract](files/gdl_abstract.pdf) here.
-
-
-### Workshop on Applications of Formal Methods and Digital Twins
-
-The [Workshop on Applications of Formal Methods and Digital Twins](https://fm2023.isp.uni-luebeck.de/index.php/workshop-applications-of-formal-methods-and-digital-twins/), was successfully held at [FM'23](https://fm2023.isp.uni-luebeck.de/) with 6 exciting presentations and an invited talk by Ana Cavalcanti.
-
-
-### Tutorial on Semantically Reflected Digital Twins
-
-Together with Einar Broch Johnsen, Silvia Lizeth Tapia Tarifa and Rudolf Schlatte, I gave a tutorial at [ICTAC 2022](https://viam.science.tsu.ge/clas2022/ictac/school.html) about our work on the combination of Semantic Web technologies with programming languages to enable
-self-adaptive Digital Twins that react to changes in the asset model.
 
 ### Recent and Recorded Presentations
 {% assign sorted = site.talks | reverse %}
