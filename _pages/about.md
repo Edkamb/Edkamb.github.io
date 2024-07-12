@@ -18,44 +18,38 @@ I am developing and maintaining [Crowbar](https://github.com/Edkamb/crowbar-tool
 
 I am contributing to the [ABS](https://abs-models.org) language and am maintaining its variability layer and its hybrid extension [HABS](https://formbar.raillab.de/en/publications-and-tools/hybrid-abs/).
 
-You can find a list of my publications at [dbpl](https://dblp.org/pid/177/7383.html) or [Google Scholar](https://scholar.google.com/citations?user=-GBTulYAAAAJ). Preprints are published [here](/publications/). A short version of my CV can be found [here](files/cv_short.pdf).
+You can find a list of my publications at [dblp](https://dblp.org/pid/177/7383.html) or [Google Scholar](https://scholar.google.com/citations?user=-GBTulYAAAAJ). Preprints are published [here](/publications/), and slides of presentations [here](/talks/).
 
 # Recent and Upcoming Events
+
 
 ### Workshop an Asynchronous Program Models
 The 6th [Workshop on Asynchronous Program Models](https://edkamb.github.io/APM_24/), successor of the ABS workshop series, will be held 02. - 04.10.24 in Turin, 
 and will be organized by Ferruccio Damiani, Luca Paolini, Gianluca Torta, and me.
 
-### Workshop on Knowledge Graph Software Lifecycle Management
-Our proposal to hold the 1st Workshop on Knowledge Graph Software Lifecycle Management as part of [ISWC'24](https://iswc2024.semanticweb.org) was accepted, more details to follow!
+### Workshop on Software Lifecycle Management for Knowledge Graphs
+Our proposal to hold the 1st Workshop on Software Lifecycle Management for Knowledge Graphs as part of [ISWC'24](https://iswc2024.semanticweb.org) was accepted, submit your paper [here](https://w3id.org/soflim4kg)!
 
-### SemIIM Workshop
-Our proposal to hold the 3rd International Workshop on Semantic Industrial Information Modelling (SemIIM) as part of [ISWC'24](https://iswc2024.semanticweb.org) was accepted, more details to follow!
+### Workshop on Semantic Industrial Information Modelling
+Our proposal to hold the 3rd International Workshop on Semantic Industrial Information Modelling (SemIIM) as part of [ISWC'24](https://iswc2024.semanticweb.org) was accepted, submit your paper [here](https://sites.google.com/view/semiim-2024)!
 
-### Lorentz Seminar 
+### Talk: DL Workshop 
+I am glad to have participated in the [37th Description Logic Workshop](https://dl2024.w.uib.no/) at the University of Bergen. The slides of my presentation on using description logics for program verification are available [here](files/Bergen24.pdf).
+
+### Talk: Lorentz Seminar 
 I am glad to have participated in the Lorentz Workshop on [Contract Languages](https://www.lorentzcenter.nl/contract-languages.html).
 The slides of my presentation are available [here](files/lorentz.pdf).
 
-### Dagstuhl Seminar
+### Talk: Dagstuhl Seminar
 I am glad to have participated in the Dagstuhl Seminar 24061 on [Are Knowledge Graphs Ready for the Real World?](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24061).
 
-### WAKERS'24
+### Tutorial: WAKERS'24
 
 The 4th [WAKERS workshop](https://set.win.tue.nl/event/wakers-2024/) on Digital Engineering and Knowledge Representation was held in Stellenbosch, the
 slides from my tutorial on Semantically lifted digital twins and programs are available [here](files/tutorial_kamburjan_wakers.pdf)
 
-### LNCS 14360 
-
-Our state-of-the-art volume on current research trends in Active Object languages is now published by Springer:
-[https://link.springer.com/book/10.1007/978-3-031-51060-1](https://link.springer.com/book/10.1007/978-3-031-51060-1)
 
 
-
-### Recent and Recorded Presentations
-{% assign sorted = site.talks | reverse %}
-  <ul>{% for post in sorted %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 # Teaching
 An instance of the KalkulierbaR tool for demonstrating different proof calculi is available at [kbar.app](http://kbar.app), the source code to run an own instance is available on [github](https://github.com/kalkulierbar/kalkulierbar).
