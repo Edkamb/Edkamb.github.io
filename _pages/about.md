@@ -22,19 +22,21 @@ You can find a list of my publications at [dblp](https://dblp.org/pid/177/7383.h
 
 # Recent and Upcoming Events
 
+### Awards:  International Conference on Engineering Digital Twins
+Our papers at [EDTConf](https://conf.researchr.org/info/edtconf-2024/accepted-papers) got awarded the Best Paper Award and the Best Short Paper Award!
+Thanks to all my co-authors and the selection committee. You find the preprints [here](/files/edtconf_1.pdf) and [here](/files/edtconf_2.pdf).
+
+### Talk: MODELS Tutorial
+I gave a tutorial on our work on semantic lifting and digital twins at MODELS'24, the slides are [here](/files/models.pdf).
 
 ### Workshop an Asynchronous Program Models
-The 6th [Workshop on Asynchronous Program Models](https://edkamb.github.io/APM_24/), successor of the ABS workshop series, will be held 02. - 04.10.24 in Turin, 
-and will be organized by Ferruccio Damiani, Luca Paolini, Gianluca Torta, and me.
+The 6th [Workshop on Asynchronous Program Models](https://edkamb.github.io/APM_24/), successor of the ABS workshop series, was be held 02. - 04.10.24 in Turin, 
+and was organized by Ferruccio Damiani, Luca Paolini, Gianluca Torta, and me.
 
-### Workshop on Software Lifecycle Management for Knowledge Graphs
-Our proposal to hold the 1st Workshop on Software Lifecycle Management for Knowledge Graphs as part of [ISWC'24](https://iswc2024.semanticweb.org) was accepted, submit your paper [here](https://w3id.org/soflim4kg)!
+### Workshops at ISWC'24 on Software Lifecycle Management for Knowledge Graphs
+I co-organize the 1st Workshop on [Software Lifecycle Management for Knowledge Graphs](https://w3id.org/soflim4kg) and the 3rd [International Workshop on Semantic Industrial Information Modelling](https://sites.google.com/view/semiim-2024)
+as part of [ISWC'24](https://iswc2024.semanticweb.org)
 
-### Workshop on Semantic Industrial Information Modelling
-Our proposal to hold the 3rd International Workshop on Semantic Industrial Information Modelling (SemIIM) as part of [ISWC'24](https://iswc2024.semanticweb.org) was accepted, submit your paper [here](https://sites.google.com/view/semiim-2024)!
-
-### Talk: DL Workshop 
-I am glad to have participated in the [37th Description Logic Workshop](https://dl2024.w.uib.no/) at the University of Bergen. The slides of my presentation on using description logics for program verification are available [here](files/Bergen24.pdf).
 
 ### Talk: Lorentz Seminar 
 I am glad to have participated in the Lorentz Workshop on [Contract Languages](https://www.lorentzcenter.nl/contract-languages.html).
@@ -42,12 +44,6 @@ The slides of my presentation are available [here](files/lorentz.pdf).
 
 ### Talk: Dagstuhl Seminar
 I am glad to have participated in the Dagstuhl Seminar 24061 on [Are Knowledge Graphs Ready for the Real World?](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24061).
-
-### Tutorial: WAKERS'24
-
-The 4th [WAKERS workshop](https://set.win.tue.nl/event/wakers-2024/) on Digital Engineering and Knowledge Representation was held in Stellenbosch, the
-slides from my tutorial on Semantically lifted digital twins and programs are available [here](files/tutorial_kamburjan_wakers.pdf)
-
 
 
 
