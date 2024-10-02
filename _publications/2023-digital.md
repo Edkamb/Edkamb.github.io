@@ -6,7 +6,7 @@ permalink: /publication/2023-04-01-ieedt
 date: 2023-04-01
 venue: 'IEEE Digital Twins'
 citation: 'Prasad Talasila, Claudio Gomes, Peter Høgh Mikkelsen, Santiago Gil Arboleda, Eduard Kamburjan,
-and Peter Gorm Larsen. (2023). <b>IEEE Digital Twins</b>. Accepted for Publication, Springer.'
+and Peter Gorm Larsen. (2023). <b>IEEE Digital Twins</b>. IEEE.'
 ---
 
 [Preprint](/files/ieeedt2023.pdf)
