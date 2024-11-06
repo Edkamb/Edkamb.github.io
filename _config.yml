@@ -11,7 +11,7 @@ title                    : "Eduard Kamburjan"
 title_separator          : "-"
 name                     : &name "Eduard Kamburjan"
 description              : &description "Personal Webpage"
-url                      : https://Edkamb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://edkamb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Edkamb/Edkamb.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Eduard Kamburjan"
   avatar           : "smallbb.jpg"
-  bio              : "Senior Researcher"
-  location         : "University of Oslo"
+  bio              : "Assist. Professor"
+  location         : "IT University of Copenhagen"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=-GBTulYAAAAj"
-  email            : "eduard@ifi.uio.no"
+  email            : "eduard.kamburjan@itu.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
