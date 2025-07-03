@@ -18,6 +18,8 @@ You can find a list of my publications at [dblp](https://dblp.org/pid/177/7383.h
 
 # Recent and Upcoming Events
 
+### Project: Graph-Based Verification of Reflective Programs
+The project "Graph-Based Verification of Reflective Programs" will be funded by the Independent Research Foundation of Denmark as a [Sapere Aude grant](https://dff.dk/en/about-the-fund/news-and-press/all-news/news-uk/2025/juni/219-million-dkk-for-outstanding-research-ideas-36-new-sapere-aude-research-leaders/)! We will start hiring 2 PhD students soon.
 
 ### Tutorial: "Testing Knowledge Graph Applications" at ISWC 2025
 I will present a tutorial on our work on test case generation for knowledge graphs at [ISWC'25](https://iswc2025.semanticweb.org), a website with material will be online soon!
