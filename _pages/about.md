@@ -18,11 +18,16 @@ You can find a list of my publications at [dblp](https://dblp.org/pid/177/7383.h
 
 # Recent and Upcoming Events
 
-### Project: Graph-Based Verification of Reflective Programs
-The project "Graph-Based Verification of Reflective Programs" will be funded by the Independent Research Foundation of Denmark as a [Sapere Aude grant](https://dff.dk/en/about-the-fund/news-and-press/all-news/news-uk/2025/juni/219-million-dkk-for-outstanding-research-ideas-36-new-sapere-aude-research-leaders/)! We will start hiring 2 PhD students soon.
+
+### Keynote: onto:Nexus 2025
+I gave a keynote titled "Software Quality for the Semantic Web" at [onto:Nexus](https://www.opencaesar.io/events/onto-Nexus-Workshop-2025). 
+You find the slides [here](/files/keynote.pdf).
 
 ### Tutorial: "Testing Knowledge Graph Applications" at ISWC 2025
 I will present a tutorial on our work on test case generation for knowledge graphs at [ISWC'25](https://iswc2025.semanticweb.org), a website with material will be online soon!
+
+### Grant: Graph-Based Verification of Reflective Programs
+The project "Graph-Based Verification of Reflective Programs" will be funded by the Independent Research Foundation of Denmark as a [Sapere Aude grant](https://dff.dk/en/about-the-fund/news-and-press/all-news/news-uk/2025/juni/219-million-dkk-for-outstanding-research-ideas-36-new-sapere-aude-research-leaders/)! We will start hiring 2 PhD students soon.
 
 ### Award: Extended Semantic Web Conference 2025
 Our paper at [ESWC](https://2025.eswc-conferences.org/) got awarded the Best In-Use Paper Award! 
@@ -31,19 +36,3 @@ You find the preprint [here](/files/eswc2025.pdf).
 ### Awards:  International Conference on Engineering Digital Twins 2024
 Our papers at [EDTConf](https://conf.researchr.org/info/edtconf-2024) got awarded the Best Paper Award and the Best Short Paper Award!
 You find the preprints [here](/files/edtconf_1.pdf) and [here](/files/edtconf_2.pdf).
-
-### Tutorial: "The Semantically Reflected Digital Twin" at MODELS 2024
-I gave tutorial on our work on semantic lifting and digital twins at MODELS'24, the slides are [here](/files/models.pdf).
-
-### Workshops at ISWC'24 on Software Lifecycle Management for Knowledge Graphs
-We have run the 1st Workshop on [Software Lifecycle Management for Knowledge Graphs](https://w3id.org/soflim4kg) and the 3rd [International Workshop on Semantic Industrial Information Modelling](https://sites.google.com/view/semiim-2024) as part of [ISWC'24](https://iswc2024.semanticweb.org), you find the joint proceedings [here](http://ceur-ws.org/Vol-3830/).
-
-
-
-
-# Teaching
-An instance of the KalkulierbaR tool for demonstrating different proof calculi is available at [kbar.app](http://kbar.app), the source code to run an own instance is available on [github](https://github.com/kalkulierbar/kalkulierbar).
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
