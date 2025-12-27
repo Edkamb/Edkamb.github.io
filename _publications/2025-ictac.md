@@ -8,4 +8,4 @@ citation: 'Eduard Kamburjan and Dilian Gurov (2025). <b>ICTAC</b>, Springer LNCS
 ---
 
 [DOI](https://doi.org/10.1007/978-3-032-11176-0_6)
-[Preprint](files/ictac2025.pdf)
+[Preprint](/files/ictac2025.pdf)
