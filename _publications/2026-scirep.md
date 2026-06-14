@@ -8,4 +8,4 @@ citation: 'Qianhang Lyu, Baifan Zhou, Martin G. Skjæveland, Eduard Kamburjan, A
 Schüller, David B. Cameron, Yunqing Rao, Dimitris Kiritsis and Arild Waaler. (2026). <b>Scientific Reports</b> Springer Nature.'
 ---
 
-[Open Access](https://doi.org/10.1038/)
+[Open Access](https://doi.org/10.1038/s41598-026-51522-x)
